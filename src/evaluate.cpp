@@ -125,4 +125,4 @@ std::string Eval::trace(Position& pos, const Eval::NNUE::Networks& networks) {
     return ss.str();
 }
 
-}  // namespace Stockfish
+}  // namespace Stockfishdasdasdasdsadasdasda
